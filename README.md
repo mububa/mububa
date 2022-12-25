@@ -1,4 +1,6 @@
 # About me
+## Mechanical Engineer, Artificial Intelligence Expert
+
 - 👋 Hi there, I’m @mububa!
 - 👀 I’m interested in AI, Python and Flutter
 
