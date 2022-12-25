@@ -1,5 +1,5 @@
 <img
-  src="/header.png"
+  src="/header_mububa.png"
   alt="Alt text"
   title="@mububa"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
