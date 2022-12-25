@@ -7,13 +7,15 @@
 # About me
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 
 - 👋 Welcome to my page, I’m @mububa!
-
+- Currently working on AI with Python.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mububa&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mububa&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to find me
+
+<p><a href="https://www.linkedin.com/in/mububahadir"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mububa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mububa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mububahadir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mububa/)  
 
