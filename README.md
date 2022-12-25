@@ -6,8 +6,7 @@
 
 # About me
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 
-- 👋 Welcome to my page, I’m @mububa!
-- Currently working on AI with Python.
+- 👋 Welcome to my profile! I'm a M.Sc. mechanical engineer, artificial intelligence expert and full-time adventure seeker. I'm currently working on AI with Python. Thanks for visiting and I'd love to connect!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mububa&show_icons=true&theme=gruvbox)
 
