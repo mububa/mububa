@@ -1,6 +1,12 @@
 # About me
 Mechanical Engineer, Artificial Intelligence Expert
 
+<img
+  src="/mububa.png"
+  alt="Alt text"
+  title="@mububa"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 
 - 👋 Welcome to my page, I’m @mububa!
 
@@ -10,6 +16,8 @@ Mechanical Engineer, Artificial Intelligence Expert
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mububa&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to find me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mububa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mububahadir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mububa/)  
 
 ## Interested in
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
