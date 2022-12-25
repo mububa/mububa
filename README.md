@@ -1,13 +1,10 @@
-# About me
-Mechanical Engineer, Artificial Intelligence Expert
-
 <img
   src="/mububa.png"
   alt="Alt text"
   title="@mububa"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
 
-
+# About me
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 
 - 👋 Welcome to my page, I’m @mububa!
 
