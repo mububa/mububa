@@ -1,4 +1,4 @@
-About me
+# About me
 - 👋 Hi there, I’m @mububa!
 - 👀 I’m interested in AI, Python and Flutter
 
