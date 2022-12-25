@@ -1,7 +1,7 @@
 # About me
 Mechanical Engineer, Artificial Intelligence Expert
 
-- 👋 Hi there, I’m @mububa!
+- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 👋 Hi there, I’m @mububa!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mububa&show_icons=true&theme=gruvbox)
@@ -39,7 +39,7 @@ Mechanical Engineer, Artificial Intelligence Expert
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors)
+
 <!---
 mububa/mububa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
