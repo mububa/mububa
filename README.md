@@ -1,7 +1,8 @@
 # About me
 Mechanical Engineer, Artificial Intelligence Expert
 
-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 👋 Welcome to my page, I’m @mububa!
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 
+- 👋 Welcome to my page, I’m @mububa!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mububa&show_icons=true&theme=gruvbox)
@@ -11,7 +12,6 @@ Mechanical Engineer, Artificial Intelligence Expert
 ## Where to find me
 
 ## Interested in
-<p align="center">
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -22,8 +22,6 @@ Mechanical Engineer, Artificial Intelligence Expert
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-</p>
-
 
 
 ## Languages
