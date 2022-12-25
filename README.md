@@ -1,7 +1,7 @@
 # About me
 Mechanical Engineer, Artificial Intelligence Expert
 
-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 👋 Hi there, I’m @mububa!
+- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=yellow&right_color=black&left_text=Hello%20Visitors) 👋 Welcome to my page, I’m @mububa!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mububa&show_icons=true&theme=gruvbox)
